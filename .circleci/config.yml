@@ -25,5 +25,5 @@ jobs:
 # Orchestrate jobs using workflows
 # See: https://circleci.com/docs/guides/orchestrate/workflows/ & https://circleci.com/docs/reference/configuration-reference/#workflows
 workflows:
-   jobs:
-      - say-hello
+  jobs:
+   - say-hello
